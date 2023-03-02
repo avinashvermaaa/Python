@@ -2,7 +2,7 @@
     
 n = int(input())
 temp = n;
-123
+
 rev = 0;
 
 while (n>0) :

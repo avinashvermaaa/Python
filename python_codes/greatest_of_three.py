@@ -1,7 +1,5 @@
 a,b,c = input().split();
-# x= int(input())
-# y= int(input())
-# z= int(input())
+
 x = int(a);
 y = int(b);
 z = int(c);
